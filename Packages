@@ -1,0 +1,15 @@
+Package: com.NsBm0d.AiconPkg
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
+Filename: ./debs//com.nsbm0d.aiconpkg_1.0.2_iphoneos-arm.deb
+Size: 11970
+MD5sum: 95e9ff5273379743a55e05ae743496d8
+SHA1: f78f6cccc9b6c333332e893ada824947daead9a0
+SHA256: 367e0bc11f299a0d29565cb078264b05393d01f485e5e496bca1258c949dbb59
+Section: NTweaks
+Description: New List updated
+Author:  NsBm0d 
+Depiction: https://github.com/NsBm0d/NsBm0d.github.io
+Name: AiconPkg
+
