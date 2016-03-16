@@ -4,12 +4,27 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.aiconpkg_1.0.2_iphoneos-arm.deb
 Size: 11970
-MD5sum: 95e9ff5273379743a55e05ae743496d8
-SHA1: f78f6cccc9b6c333332e893ada824947daead9a0
-SHA256: 367e0bc11f299a0d29565cb078264b05393d01f485e5e496bca1258c949dbb59
+MD5sum: 1c7e8e45fc301d0d618f26f2a059e971
+SHA1: 39500cc58956904545a1d983fd09872f95644303
+SHA256: 201fc383aaf5882420aa973f6c37741599ac6a6c6f0fce090b75379fd94130d3
 Section: NTweaks
 Description: New List updated
 Author:  NsBm0d 
 Depiction: https://github.com/NsBm0d/NsBm0d.github.io
 Name: AiconPkg
+
+Package: com.NsBm0d.NsB.Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
+Filename: ./debs//com.nsbm0d.nsb.theme_1.0_iphoneos-arm.deb
+Size: 4003204
+MD5sum: f10096dcbd718a6751199ee64361acd5
+SHA1: 603ad9911f810be8df331c8411e2648a49ec80f9
+SHA256: 55bf6f3d8973fff766894847e57e89c86d14c611e7ba0717795f97cf38ba5a6d
+Section: NThemes
+Description: New List updated
+Author:  NsBm0d 
+Depiction: https://github.com/NsBm0d/NsBm0d.github.io
+Name: NsBTheme
 
