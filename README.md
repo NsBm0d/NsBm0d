@@ -1,3 +1,3 @@
-#  ( ͡°  ͜ʖ  ͡°)  NsBm0d 
+#  NsBm0d 
 
 mods iDevices
